@@ -1,15 +1,14 @@
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# My Cloud Journey
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+✍️ I wanted to document my study journey and highlight some of difficulties in attaining my goal.
 
 ## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+The prerequisite is determination and the will to innovate.
 
 ## Use Case
 
@@ -17,9 +16,7 @@
 - ✍️ (Show-Me) Explain in one or two sentences the use case
 
 ## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+Today, I am watching videos and reading artices about cloud to make an informed decision on which cloud career path to follow
 
 ## Try yourself
 
