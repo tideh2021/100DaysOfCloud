@@ -18,32 +18,7 @@ The prerequisite is determination and the will to innovate.
 ## Cloud Research
 Today, I am watching videos and reading artices about cloud to make an informed decision on which cloud career path to follow
 
-## Try yourself
+## Conclusion
+After watching the videos I made up my mind to do the ccp then the SA certification for now.
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
